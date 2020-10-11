@@ -22,5 +22,4 @@
 ##### git pull origin main
 ##
 ## 10)
-![alt text][PNG]
-[PNG]:mergetool.png
+[GitHub Logo](mergetool.png)
