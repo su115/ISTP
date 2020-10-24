@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ntplib = "*"
 requests = "*"
+pytest = "*"
 
 [dev-packages]
 pytest = "*"
