@@ -14,3 +14,10 @@ pipenv run python manage.py runserver
 pipenv run python manage.py startapp main
 cd main ; mkdir templates ; touch templates/main.html ; touch urls.py
 ```
+
+#7-10
+Зробивши прості маніпуляції в файлах my_site/urls.py, main/urls.py, main/views.py, main/templates/main.html сторінки працють і доступні.
+![code](code.png)
+![example](resault1.png)
+
+
