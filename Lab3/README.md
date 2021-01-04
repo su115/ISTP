@@ -16,8 +16,10 @@ cd main ; mkdir templates ; touch templates/main.html ; touch urls.py
 ```
 
 #7-10
-Зробивши прості маніпуляції в файлах my_site/urls.py, main/urls.py, main/views.py, main/templates/main.html сторінки працють і доступні.
+####Зробивши прості маніпуляції в файлах my_site/urls.py, main/urls.py, main/views.py, main/templates/main.html сторінки працють і доступні.
 ![code](code.png)
 ![example](resault1.png)
 
-
+#11-13
+#### Відповіді json модифіковані і лог ведеться
+![json resault](resault2.png)
