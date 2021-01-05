@@ -1,0 +1,88 @@
+INFO 2021-01-05 16:40:04,028 root : Сервер доступний. Час на сервері: 2021-01-05T16:40:04.025571
+INFO 2021-01-05 16:40:04,029 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:40:04,029 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:40:04,029 root : Ключ: date, Значення: 2021-01-05T16:40:04.025571
+INFO 2021-01-05 16:40:04,029 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:40:04,029 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:40:04,029 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:40:04,030 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:41:04,075 root : Сервер доступний. Час на сервері: 2021-01-05T16:41:04.072407
+INFO 2021-01-05 16:41:04,077 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:41:04,080 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:41:04,081 root : Ключ: date, Значення: 2021-01-05T16:41:04.072407
+INFO 2021-01-05 16:41:04,081 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:41:04,081 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:41:04,081 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:41:04,081 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:42:04,150 root : Сервер доступний. Час на сервері: 2021-01-05T16:42:04.147045
+INFO 2021-01-05 16:42:04,151 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:42:04,151 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:42:04,152 root : Ключ: date, Значення: 2021-01-05T16:42:04.147045
+INFO 2021-01-05 16:42:04,152 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:42:04,152 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:42:04,152 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:42:04,152 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:43:04,212 root : Сервер доступний. Час на сервері: 2021-01-05T16:43:04.209867
+INFO 2021-01-05 16:43:04,212 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:43:04,212 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:43:04,212 root : Ключ: date, Значення: 2021-01-05T16:43:04.209867
+INFO 2021-01-05 16:43:04,213 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:43:04,213 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:43:04,213 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:43:04,213 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:44:04,277 root : Сервер доступний. Час на сервері: 2021-01-05T16:44:04.274634
+INFO 2021-01-05 16:44:04,277 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:44:04,277 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:44:04,277 root : Ключ: date, Значення: 2021-01-05T16:44:04.274634
+INFO 2021-01-05 16:44:04,277 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:44:04,277 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:44:04,277 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:44:04,277 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:45:04,303 root : Сервер доступний. Час на сервері: 2021-01-05T16:45:04.299876
+INFO 2021-01-05 16:45:04,304 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:45:04,304 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:45:04,304 root : Ключ: date, Значення: 2021-01-05T16:45:04.299876
+INFO 2021-01-05 16:45:04,304 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:45:04,304 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:45:04,304 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:45:04,304 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:45:49,517 root : Сервер доступний. Час на сервері: 2021-01-05T16:45:49.513169
+INFO 2021-01-05 16:45:49,517 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:45:49,518 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:45:49,518 root : Ключ: date, Значення: 2021-01-05T16:45:49.513169
+INFO 2021-01-05 16:45:49,518 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:45:49,518 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:45:49,518 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:45:49,519 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:46:49,570 root : Сервер доступний. Час на сервері: 2021-01-05T16:46:49.567926
+INFO 2021-01-05 16:46:49,572 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:46:49,572 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:46:49,572 root : Ключ: date, Значення: 2021-01-05T16:46:49.567926
+INFO 2021-01-05 16:46:49,572 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:46:49,572 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:46:49,573 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:46:49,573 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:47:49,643 root : Сервер доступний. Час на сервері: 2021-01-05T16:47:49.640088
+INFO 2021-01-05 16:47:49,643 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:47:49,643 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:47:49,643 root : Ключ: date, Значення: 2021-01-05T16:47:49.640088
+INFO 2021-01-05 16:47:49,643 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:47:49,643 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:47:49,644 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:47:49,644 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:48:49,707 root : Сервер доступний. Час на сервері: 2021-01-05T16:48:49.702971
+INFO 2021-01-05 16:48:49,707 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:48:49,708 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:48:49,708 root : Ключ: date, Значення: 2021-01-05T16:48:49.702971
+INFO 2021-01-05 16:48:49,708 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:48:49,708 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:48:49,709 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:48:49,709 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
+INFO 2021-01-05 16:49:49,724 root : Сервер доступний. Час на сервері: 2021-01-05T16:49:49.721942
+INFO 2021-01-05 16:49:49,730 root : Запитувана сторінка: : http://mysite:8000/json
+INFO 2021-01-05 16:49:49,730 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-05 16:49:49,731 root : Ключ: date, Значення: 2021-01-05T16:49:49.721942
+INFO 2021-01-05 16:49:49,731 root : Ключ: servername, Значення: testing server
+INFO 2021-01-05 16:49:49,731 root : Ключ: server_url, Значення: http://mysite:8000/json
+INFO 2021-01-05 16:49:49,732 root : Ключ: server_iinfo, Значення: {'system': 'posix'}
+INFO 2021-01-05 16:49:49,732 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.1', 'remote addr': '172.17.0.3', 'remote host': ''}
