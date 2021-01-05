@@ -15,8 +15,9 @@ def MyJson(request):
             'server_url': request.build_absolute_uri(),
             'server_iinfo': {
                 'system': os.name,
-                'user': os.getlogin(),
-                'srv_pid': os.getpid(),
+                # Docker in Lab4 dont want work with them
+#                'user': os.getlogin(),
+#                'srv_pid': os.getpid(),
             },
             'client_info': {
                 'user agent': request.META['HTTP_USER_AGENT'],
