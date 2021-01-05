@@ -5,7 +5,7 @@ import logging
 import time
 
 logging.basicConfig(
-    filename="server.log",
+    filename="/mylog/server.log",
     filemode='a',
     level=logging.INFO,
     format='{levelname} {asctime} {name} : {message}',
@@ -30,4 +30,4 @@ def main(url):
         time.sleep(60)
 
 if __name__ == '__main__':
-    main("http://localhost:8000/json")
+    main("http://mysite:8000/json")
