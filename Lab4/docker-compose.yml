@@ -1,0 +1,27 @@
+version: '3.3'
+services:
+  site:
+    build:
+      context: ./django
+      dockerfile: Dockerfile
+    image: 125111317/myservice:site-compose
+    container_name: site-l4
+    networks:
+      - public
+    ports:
+      - 80:8000
+  monitor:
+    build:
+      context: ./monitoring
+      dockerfile: Dockerfile
+    image: 125111317/myservice:monitor-compose
+    container_name: monitor-l4
+    volumes:
+            - ./:/mylog/
+    depends_on:
+      - site
+    networks:
+      - public
+networks:
+  public:
+    driver: bridge
