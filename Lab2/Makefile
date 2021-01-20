@@ -16,8 +16,8 @@ install:
 test:
 	@echo "Start tests."
 	# Ваш код тут
-	pipenv shell 
-	pytest tests/tests.py
+	#pipenv shell 
+	pipenv run python3 -m pytest ./tests/tests.py
 	exit 0
 
 run:
