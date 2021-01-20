@@ -2,8 +2,7 @@ language: python
 os: ubuntu
 python:
         - "3.8"
-        - "3.9"
 before_install:
-        - sudo apt-get -y install pipenv
+        - pip install pipenv
 script:
         - ./Lab2/travis.sh
