@@ -7,4 +7,6 @@ python:
 script:
         - sudo make install test -C $PWD/Lab2/
         - cd $PWD/Lab4/
-        - sudo docker-compose build 
+        - sudo docker-compose build
+        - cd ..
+        - sudo make -C $PWD/Lab5/ 
