@@ -5,7 +5,7 @@ all: install test run deploy
 install:
 	@echo "Installing pipenv and dependencies."
 	# Ваш код тут
-	apt-get install pipenv python3  -y 
+	pip install pipenv
 	pipenv --three
 	pipenv install ntplib
 	pipenv install requests
