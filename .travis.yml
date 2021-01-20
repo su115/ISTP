@@ -1,6 +1,9 @@
 language: python
 os: ubuntu
+services:
+        - docker
 python:
         - "3.8"
 script:
         - sudo make install test -C $PWD/Lab2/
+        - sudo docker-compose build -f $PWD/Lab4/docker-compose.yml
