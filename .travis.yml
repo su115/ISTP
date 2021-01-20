@@ -2,7 +2,5 @@ language: python
 os: ubuntu
 python:
         - "3.8"
-before_install:
-        - pip install requests pytest ntplib
 script:
-        - $PWD/Lab2/travis.sh
+        - make install test $PWD/Lab2/
