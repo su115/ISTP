@@ -17,8 +17,8 @@ test:
 	@echo "Start tests."
 	# Ваш код тут
 	pipenv shell 
-	pytest tests/tests.py >results.txt
-	exit
+	pytest tests/tests.py
+	exit 0
 
 run:
 	@echo "Run Python app."
